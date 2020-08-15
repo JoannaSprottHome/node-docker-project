@@ -1,4 +1,6 @@
-Starter project for express project with docker.
+<b>Starter project for express project with docker.<b/> <br/> <br/>
+<img src="images/node-express.jpeg" height="100">
+<img src="images/docker.png" height="100">
 
 ### Build:
 `docker build -t node-docker-project .`
